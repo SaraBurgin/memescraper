@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/SaraBurgin/memescraper.git",
   "author": "Sara <saragonzalezburgin@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "get-img-src": "^1.0.0",
+    "request": "^2.88.0"
+  }
 }
