@@ -323,6 +323,13 @@ http-signature@~1.2.0:
     jsprim "^1.2.2"
     sshpk "^1.7.0"
 
+image-downloader@^3.5.0:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/image-downloader/-/image-downloader-3.5.0.tgz#88c437f83b28817e09b400d5ab1f0f753410135d"
+  integrity sha512-7n6xFEcelGaJHy3Zq/D/H78BOZtdTo2f7KiI5vxGkvJT0pcz/7LcDShSr3MwRudgIG9/QY0mxEakQ9SAExFMzg==
+  dependencies:
+    request "^2.88.0"
+
 inherits@^2.0.1, inherits@^2.0.3, inherits@~2.0.1:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.4.tgz#0fa2c64f932917c3433a0ded55363aae37416b7c"
