@@ -32,8 +32,6 @@ request(
       })
       .get();
 
-    imgSrcs.slice(0, 10);
-
     const firstTenImgs = imgSrcs.slice(0, 10);
 
     firstTenImgs.forEach(function(value, index) {
